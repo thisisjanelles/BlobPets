@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 45ae6ec2c7bb94068ad0544359a69579
+timeCreated: 1487625276
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Teaspoon
+  fontNames:
+  - Teaspoon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
