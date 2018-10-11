@@ -6,7 +6,7 @@ An Android mobile virtual pet game where players can raise blobs and fight other
 
 ## Video
 
-[![Video link](https://img.youtube.com/vi/4gvzy6m7hH0/0.jpg)](https://www.youtube.com/watch?v=4gvzy6m7hH0
+[![Video link](https://img.youtube.com/vi/4gvzy6m7hH0/0.jpg)](https://www.youtube.com/watch?v=4gvzy6m7hH0)
 
 ## Screenshots
 
